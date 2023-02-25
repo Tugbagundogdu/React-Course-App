@@ -1,0 +1,17 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.appButon{
+    width: 20%;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: #dbc2a4;
+    border: 1px solid #dbc2a4;
+}
+.courseList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
